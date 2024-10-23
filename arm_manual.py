@@ -63,7 +63,7 @@ vehicle = establishConnection()
 arm()
 
 # Increase throttle for hover and motor testing
-manual_throttle(1900, 5)
+manual_throttle(1900, 20)
 
 # Land the drone safely
 land()
